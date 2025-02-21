@@ -38,7 +38,7 @@ This is a simple Rock Paper Scissors game implemented using JavaScript, HTML, an
 - Storing scores using local storage
 
 ## Contributors
-- Ayesha Fathima Rs
+- Ayesha Fathima 
 
 ## License
 This project is licensed under the MIT License.
